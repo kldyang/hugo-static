@@ -1,0 +1,206 @@
+{
+   "name": "tv_小电视",
+   "type": "image",
+   "items": [
+      {
+         "key": "tv_doge",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_doge.webp"
+      },
+      {
+         "key": "tv_亲亲",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_亲亲.webp"
+      },
+      {
+         "key": "tv_偷笑",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_偷笑.webp"
+      },
+      {
+         "key": "tv_再见",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_再见.webp"
+      },
+      {
+         "key": "tv_冷漠",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_冷漠.webp"
+      },
+      {
+         "key": "tv_发怒",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_发怒.webp"
+      },
+      {
+         "key": "tv_发财",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_发财.webp"
+      },
+      {
+         "key": "tv_可爱",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_可爱.webp"
+      },
+      {
+         "key": "tv_吐血",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_吐血.webp"
+      },
+      {
+         "key": "tv_呆",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_呆.webp"
+      },
+      {
+         "key": "tv_呕吐",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_呕吐.webp"
+      },
+      {
+         "key": "tv_困",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_困.webp"
+      },
+      {
+         "key": "tv_坏笑",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_坏笑.webp"
+      },
+      {
+         "key": "tv_大佬",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_大佬.webp"
+      },
+      {
+         "key": "tv_大哭",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_大哭.webp"
+      },
+      {
+         "key": "tv_委屈",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_委屈.webp"
+      },
+      {
+         "key": "tv_害羞",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_害羞.webp"
+      },
+      {
+         "key": "tv_尴尬",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_尴尬.webp"
+      },
+      {
+         "key": "tv_微笑",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_微笑.webp"
+      },
+      {
+         "key": "tv_思考",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_思考.webp"
+      },
+      {
+         "key": "tv_惊吓",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_惊吓.webp"
+      },
+      {
+         "key": "tv_打脸",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_打脸.webp"
+      },
+      {
+         "key": "tv_抓狂",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_抓狂.webp"
+      },
+      {
+         "key": "tv_抠鼻",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_抠鼻.webp"
+      },
+      {
+         "key": "tv_斜眼笑",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_斜眼笑.webp"
+      },
+      {
+         "key": "tv_无奈",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_无奈.webp"
+      },
+      {
+         "key": "tv_晕",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_晕.webp"
+      },
+      {
+         "key": "tv_流汗",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_流汗.webp"
+      },
+      {
+         "key": "tv_流泪",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_流泪.webp"
+      },
+      {
+         "key": "tv_流鼻血",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_流鼻血.webp"
+      },
+      {
+         "key": "tv_点赞",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_点赞.webp"
+      },
+      {
+         "key": "tv_生气",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_生气.webp"
+      },
+      {
+         "key": "tv_生病",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_生病.webp"
+      },
+      {
+         "key": "tv_疑问",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_疑问.webp"
+      },
+      {
+         "key": "tv_白眼",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_白眼.webp"
+      },
+      {
+         "key": "tv_皱眉",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_皱眉.webp"
+      },
+      {
+         "key": "tv_目瞪口呆",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_目瞪口呆.webp"
+      },
+      {
+         "key": "tv_睡着",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_睡着.webp"
+      },
+      {
+         "key": "tv_笑哭",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_笑哭.webp"
+      },
+      {
+         "key": "tv_腼腆",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_腼腆.webp"
+      },
+      {
+         "key": "tv_色",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_色.webp"
+      },
+      {
+         "key": "tv_调侃",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_调侃.webp"
+      },
+      {
+         "key": "tv_调皮",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_调皮.webp"
+      },
+      {
+         "key": "tv_鄙视",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_鄙视.webp"
+      },
+      {
+         "key": "tv_闭嘴",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_闭嘴.webp"
+      },
+      {
+         "key": "tv_难过",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_难过.webp"
+      },
+      {
+         "key": "tv_馋",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_馋.webp"
+      },
+      {
+         "key": "tv_鬼脸",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_鬼脸.webp"
+      },
+      {
+         "key": "tv_黑人问号",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_黑人问号.webp"
+      },
+      {
+         "key": "tv_鼓掌",
+         "val": "https://cdn.jsdelivr.net/gh/kldyang/hugo-static/emo/tvxds/tv_鼓掌.webp"
+      }
+   ]
+}
