@@ -120,7 +120,7 @@ h3 {
 .article-content pre {
   position: relative;
   padding: 15px;
-  background: #f8f9fa;
+  background: #f3f6f8
   border-radius: 10px;
   overflow-x: auto
 }
@@ -145,10 +145,10 @@ th {
 
 .article-content code {
   font-size: 17px;
-  background: #f8f9fa;
+  background: #f3f6f8;
   border-radius: 10px;
-  padding: 7px;
-  background: #f8f9fa;
+  padding: 5px;
+  line-height: 25px;
 }
 
 .article-content a {
