@@ -19,9 +19,9 @@ h3 {
 .header {
   margin: 0 auto;
   max-width: 800px;
-  padding: 20px;
   display: flex;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 50px;
 }
 
 .header a {
@@ -36,10 +36,11 @@ h3 {
 .menu {
   margin-top: 10px;
   margin-left: 400px;
+  font-size: 20px;
 }
 
 .menu a {
-  padding: 10px;
+  padding-left: 10px;
 }
 
 .menu a:hover {
@@ -47,31 +48,29 @@ h3 {
 }
 
 .homepage {
-  max-width: 600px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
 .homepage-article-list {
   display: flex;
-  flex-direction: column;
-  padding: 20px;
+  line-height: 1.7;
 }
 
 .homepage-article-link {
   color: initial;
-  font-size: 25px;
+  text-align: left;
+  font-size: 20px;
   text-decoration: none;
 }
 
 .homepage-article-link:hover {
-  color: darkgreen;
-  transition: .2s ease-in-out;
+  font-weight: 600;
 }
 
 .homepage-article-date {
-  margin-top: 5px;
-  color: gray;
-  font-size: 15px;
+  flex: 1;
+  text-align: right;
 }
 
 .article {
@@ -120,7 +119,7 @@ h3 {
 .article-content pre {
   position: relative;
   padding: 15px;
-  background: #f3f6f8
+  background: #f3f6f8;
   border-radius: 10px;
   overflow-x: auto
 }
@@ -193,10 +192,11 @@ th {
 }
 
 .category {
+  font-size: 18px;
   margin-bottom: 30px;
   padding: 10px;
   text-decoration: none;
-  line-height: 30px;
+  line-height: 1.7;
   text-align: center;
   background: #fcfcfc;
   border-radius: 10px;
@@ -213,6 +213,7 @@ th {
 }
 
 .category li {
+  list-style: none;
   text-align: left;
 }
 
@@ -278,26 +279,23 @@ th {
   line-height: 1.5;
 }
 
-.footer {
-  width: 800px;
+.footer{
   margin: 0 auto;
+  width: 800px;
 }
 
 .copyright {
-  padding: 50px;
-  font-size: 18px;
+  padding: 10px;
   text-align: center;
-  color: gray;
 }
 
 .copyright a {
-  color: gray;
+  color: black;
   text-decoration: none;
 }
 
-.copyright a:hover {
-  color: #96ccff;
-  transition: .2s ease-in-out;
+.copyright a:hover{
+  font-weight: 600;
 }
 
 hr {
@@ -336,19 +334,13 @@ div.highlight:focus>.copy-button {
   }
 
   .copyright {
-    padding: initial;
+    padding: 10px;
   }
 
   .header {
-    margin: 0 auto;
-    max-width: 800px;
-    padding: 20px;
+    max-width: 700px;
     display: flex;
     margin-bottom: 10px;
-  }
-
-  .sitetitle {
-    font-size: 25px;
   }
 
   .menu {
@@ -368,8 +360,18 @@ div.highlight:focus>.copy-button {
 
 @media screen and (max-width: 500px) {
   .sitetitle {
-    margin-top: 10px;
-    font-size: 20px;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .homepage-article-link{
+    font-size: 18px;
+    width: 270px;
+  }
+
+  .homepage-article-date{
+    margin-top: 1px;
+    font-size: 15px;
   }
 
   .menu {
@@ -378,8 +380,8 @@ div.highlight:focus>.copy-button {
     font-size: 15px;
   }
 
-  .menu a {
-    padding: 5px;
+  .category{
+    font-size: 15px;
   }
 
   .category-article li {
